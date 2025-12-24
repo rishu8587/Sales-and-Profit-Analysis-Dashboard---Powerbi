@@ -40,7 +40,7 @@ data-driven decision-making.
 - `project 3.pdf` – Exported Power BI dashboard
 
 ## 📸 Dashboard Preview
-(Screenshots included in the repository)
+![imgae alt](https://github.com/rishu8587/Sales-and-Profit-Analysis-Dashboard---Powerbi/blob/a7a46bc0d7ad3c1826f90a94a4df4f8838259eb6/IMG_3730.jpg)
 
 ## 👤 Author
 Rishabh
